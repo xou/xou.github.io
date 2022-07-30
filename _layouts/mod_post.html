@@ -17,3 +17,8 @@ layout: post
   <i>Updated <a href="https://github.com/xou/xou.github.io/commits/gh-pages/{{ page.path }}">{{ page.updated }}</a></i>
 </footer>
 {% endif %}
+{% if page.acks %}
+<footer>
+  <i>Acknowledgements: {{ page.acks }}</i>
+</footer>
+{% endif %}
