@@ -7,6 +7,7 @@ permalink: /34-blockchain-projects.html
 description: I looked at 34 projects listed by the top Google result for "real-world blockchain projects". 33 of these are either dead, pivoted away from Blockchain, use Blockchain in a (sometimes dangerously) bad way, or are have no real-world utility.
 acks: Thanks to David Gerard, u/Siccors and Stephen Diehl for their input
 published: true
+updated: 2022-09-18
 ---
 
 **TL;DR**: The top #1 Google result for “blockchain production users” (and related
@@ -56,7 +57,8 @@ use cases of Blockchain technology. So I decided to dig myself.
 
 The top search result for “blockchain real-world applications” on Google is [this
 builtin.com article](https://builtin.com/blockchain/blockchain-applications), titled
-“**34 Blockchain Applications and Real-World Use Cases Disrupting the Status Quo**“.
+“**34 Blockchain Applications and Real-World Use Cases Disrupting the Status Quo**“
+([archived version](https://web.archive.org/web/20220607110520/https://builtin.com/blockchain/blockchain-applications)).
 Quote:
 
 > We've rounded up **34 examples of real-world blockchain use cases for this
