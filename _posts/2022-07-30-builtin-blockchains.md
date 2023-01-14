@@ -7,7 +7,7 @@ permalink: /34-blockchain-projects.html
 description: I looked at 34 projects listed by the top Google result for "real-world blockchain projects". 33 of these are either dead, pivoted away from Blockchain, use Blockchain in a (sometimes dangerously) bad way, or are have no real-world utility.
 acks: Thanks to David Gerard, u/Siccors and Stephen Diehl for their input
 published: true
-updated: 2022-09-18
+updated: 2023-01-13
 ---
 
 **TL;DR**: The top #1 Google result for “blockchain production users” (and related
@@ -457,7 +457,13 @@ been updated since March 2018. Their actual website (blockarray.com) is gone.
 
 > ![](assets/34_blockchain/blockarray.png)
 
-### Maersk: Bad
+### Maersk: ~~Bad~~Dead
+
+*Updated 2023-01-13: Maersk announced that they will be [shutting down
+Tradelens in early
+2023](https://www.maersk.com/news/articles/2022/11/29/maersk-and-ibm-to-discontinue-tradelens),
+as "need for full global industry collaboration has not been achieved".*
+
 Bad DLT: I actually spent a serious amount of time looking at Maersk — this is a
 platform that actually seems to work, is used by customers, and they seem to be using a
 Hyperledger internally.
